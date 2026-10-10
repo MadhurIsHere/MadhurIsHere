@@ -273,14 +273,22 @@ GitHub Analytics
 </a><br/><br/>
 
 <a href="https://github.com/MadhurIsHere">
-  <img src="https://github-profile-trophy.vercel.app/?username=MadhurIsHere&theme=transparent&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub profile trophies" />
+  <div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MadhurIsHere&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="100%" alt="GitHub profile trophies" />
+
+</div>
 </a></div>---
 
 Contribution Activity
 
-<div align="center"><a href="https://github.com/MadhurIsHere">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MadhurIsHere&bg_color=00000000&color=0891b2&line=0f766e&point=06b6d4&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
-</a></div>---
+<div align="center">
+
+<a href="https://github.com/MadhurIsHere">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MadhurIsHere&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
+</a>
+
+</div>
 
 Beyond the Code
 
